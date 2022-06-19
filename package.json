@@ -1,0 +1,21 @@
+{
+  "name": "selectplugin",
+  "version": "1.0.0",
+  "description": "selectPlugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html --open"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "select"
+  ],
+  "author": "Michael <p0shelnaxyu@vk.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.52.3"
+  }
+}
